@@ -18,7 +18,7 @@ Welcome to the **IP-I-Projects** repository! This collection showcases projects 
 | **Salim Aragaw**       | ETS1185/15     |
 | **Sosina Ayele**       | ETS1276/15     |
 | **Sosina Tilahun**     | ETS1273/15     |
-| **Thressa Menilik**    | ETS1309/15     |
+| **Thressa Menilek**    | ETS1309/15     |
 
 ## 🚀 Features
 
