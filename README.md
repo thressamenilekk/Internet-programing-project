@@ -1,6 +1,6 @@
 # 🌟 IP-I-Projects
 
-Welcome to the **IP-I-Projects** repository! This collection showcases projects from the **Internet Programming I** course at **AASTU University**, instructed by **Mr.Biruk G.** We are **Group  (Akir coder)**.
+Welcome to the **IP-I-Projects** repository! This collection showcases projects from the **Internet Programming I** course at **AASTU University**, instructed by **Mr.Biruk G.** We are **Group 6 (Akir coders)**.
 
 ## 🚀 Projects
 
